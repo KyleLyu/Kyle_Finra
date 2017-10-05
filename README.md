@@ -11,5 +11,5 @@
 2. Getting file by id URI: http://../files/{id} <br>
    Http method: GET  <br> <br>
    
-3. Getting all files URI: http://../files
+3. Getting all files URI: http://../files     <br>
    Http method: GET
