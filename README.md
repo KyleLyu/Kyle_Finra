@@ -4,10 +4,10 @@
 3. Metadata of file's id, name, path and timestamp stored in in-memory cache Derby. <br>   
 
 <h2>Tech</h2>
-   • Spring Boot
-   • Spring DATA JPA
-   • Maven
-   • Restful API
+   • Spring Boot<br>
+   • Spring DATA JPA<br>
+   • Maven<br>
+   • Restful API<br>
    • JUnit, Mockito <br>
 
 <h2>API</h2>
