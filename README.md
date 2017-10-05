@@ -6,4 +6,10 @@
 <h2>API</h2>
 
 1. Uplaoding URI: http://.../upload      <br>        
-   Http method: post
+   Http method: POST <br> <br>
+   
+2. Getting file by id URI: http://../files/{id} <br>
+   Http method: GET  <br> <br>
+   
+3. Getting all files URI: http://../files
+   Http method: GET
