@@ -15,10 +15,10 @@
 1. Uplaoding URI: http://.../upload      <br>        
    Http method: POST <br> <br>
    
-2. Getting file by id URI: http://../files/{id} <br>
+2. Getting file' info by id URI: http://../files/{id} <br>
    Http method: GET  <br> <br>
    
-3. Getting all files URI: http://../files     <br>
+3. Getting all files' info URI: http://../files     <br>
    Http method: GET <br>
    
 <h2>Contact</h2>
