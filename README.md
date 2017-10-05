@@ -5,4 +5,5 @@
 
 <h2>API</h2>
 
-1. Uplaoding URI: http://.../upload              Http method: post
+1. Uplaoding URI: http://.../upload      <br>        
+   Http method: post
