@@ -20,12 +20,7 @@ import java.util.List;
 @Service
 public class FileServiceImpl implements FileService{
 
-    private final Path rootPath;
-
-    @Autowired
-    public FileServiceImpl(StorageInfo storageInfo) {
-        this.rootPath = Paths.get(storageInfo.getPath());
-    }
+    private final Path rootPath = Paths.get(StorageInfo.path);
 
 
 

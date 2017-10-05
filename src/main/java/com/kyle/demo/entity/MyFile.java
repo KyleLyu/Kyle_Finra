@@ -64,7 +64,7 @@ public class MyFile implements Serializable{
 
     @Override
     public String toString() {
-        return "fileId= " + id;
+        return "fileId: " + id + "\nfileName: " + name + "\n filePath: " + path + "\nfileTimeStamp: " + timestamp;
 
     }
 }
